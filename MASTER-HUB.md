@@ -83,7 +83,7 @@
 
 ```
 MASTER HUB
-├── 📊 OCEAN (Public - Regulatory)
+├── 📊 6CEAN (Public - Regulatory)
 ├── 🦬 Hand-EastBison (Hub - Projects & Feeds)
 ├── 🎬 masterarmstarfilmz (Private - Creative)
 └── 🍌 Plastic-Alluminium-Banana (Fork - Archive)
