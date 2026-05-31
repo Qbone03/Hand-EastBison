@@ -9,7 +9,7 @@
 | METRIC | COUNT | TIME RATIO |
 |--------|-------|-----------|
 | 🏗️ Total Repos | 3 | Updated 3 min ago |
-| 🔴 Active Issues | 12 | Last 15 days |
+| 🔴 Active Issues | 13 | Last 15 days |
 | 📊 Projects | 2 | Ongoing |
 | 🔥 Total Comments | 100+ | Consistent flow |
 | ⏱️ Activity Level | HIGH | Daily commits |
